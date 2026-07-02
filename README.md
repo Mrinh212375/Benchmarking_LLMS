@@ -106,4 +106,4 @@ feedback_text,true_sentiment
 
 ## License
 
-MIT License
+Apache License 2.0 - See LICENSE file for details
