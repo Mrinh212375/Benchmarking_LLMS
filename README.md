@@ -86,6 +86,7 @@ The script will:
 - `benchmark_results.json` - Output with benchmark results
 - `dataset.txt` - Source data file
 - `.env` - Environment variables for API keys
+- `requirements.txt` - Python dependencies
 
 ## Data Format
 
