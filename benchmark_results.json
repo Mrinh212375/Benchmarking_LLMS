@@ -1,0 +1,52 @@
+{
+    "openai/gpt-oss-120b": {
+        "Overall_Accuracy": 0.92,
+        "Average_Latency": 527.8114680037834,
+        "Estimated_Total_Cost": 0.0015551999999999999,
+        "Confusion_matrix": {
+            "Positive": {
+                "Positive": 8,
+                "Negative": 0,
+                "Neutral": 0,
+                "Unknown": 0
+            },
+            "Negative": {
+                "Positive": 0,
+                "Negative": 8,
+                "Neutral": 1,
+                "Unknown": 0
+            },
+            "Neutral": {
+                "Positive": 0,
+                "Negative": 1,
+                "Neutral": 7,
+                "Unknown": 0
+            }
+        }
+    },
+    "llama-3.3-70b-versatile": {
+        "Overall_Accuracy": 0.92,
+        "Average_Latency": 172.89491599891335,
+        "Estimated_Total_Cost": 0.0020277999999999997,
+        "Confusion_matrix": {
+            "Positive": {
+                "Positive": 8,
+                "Negative": 0,
+                "Neutral": 0,
+                "Unknown": 0
+            },
+            "Negative": {
+                "Positive": 0,
+                "Negative": 8,
+                "Neutral": 1,
+                "Unknown": 0
+            },
+            "Neutral": {
+                "Positive": 0,
+                "Negative": 1,
+                "Neutral": 7,
+                "Unknown": 0
+            }
+        }
+    }
+}
