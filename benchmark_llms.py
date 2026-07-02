@@ -1,8 +1,3 @@
-"""
-Converts the raw dataset.txt (already comma-separated, with quoted
-multi-line fields) into a proper customer_feedback.csv file.
-"""
-
 import sys
 import csv
 import pandas as pd
