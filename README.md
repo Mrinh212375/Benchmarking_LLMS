@@ -46,10 +46,7 @@ Results are saved to `benchmark_results.json`. Example output:
 
 ### Requirements
 - Python 3.8+
-- `pandas`
-- `python-dotenv`
-- `langchain-groq`
-- `langchain-google-genai`
+- See `requirements.txt` for the full list of Python dependencies.
 
 ### Installation
 
@@ -61,7 +58,7 @@ cd Benchmarking_LLMS
 
 2. Install dependencies:
 ```bash
-pip install pandas python-dotenv langchain-groq langchain-google-genai google-genai
+pip install -r requirements.txt
 ```
 
 3. Set up environment variables in `.env`:
